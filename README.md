@@ -1,0 +1,2 @@
+# Tlekbay-Roz
+Bootstrap interm
